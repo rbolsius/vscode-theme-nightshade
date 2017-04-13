@@ -1,0 +1,27 @@
+{
+  "name": "theme-nightshade",
+  "displayName": "Nightshade Theme",
+  "description": "A dark theme with medium contrast and color intensity",
+  "categories": [
+    "Themes"
+  ],
+  "version": "0.1.0",
+  "publisher": "rbolsius",
+  "engines": {
+    "vscode": "*"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nightshade",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nightshade.json"
+      },
+      {
+        "label": "Daylight",
+        "uiTheme": "vs-light",
+        "path": "./themes/daylight.json"
+      }
+    ]
+  }
+}
