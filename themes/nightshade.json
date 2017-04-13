@@ -4,9 +4,9 @@
     {
       "settings": {
         "foreground": "#dcdcd0",
-        "background": "#222221",
-        "lineHighlight": "#2f2f2d",
-        "selection": "#3c3c3a"
+        "background": "#222222",
+        "lineHighlight": "#2f2f2f",
+        "selection": "#3c3c3c"
       }
     },
     {
