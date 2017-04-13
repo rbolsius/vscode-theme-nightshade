@@ -7,6 +7,7 @@
   ],
   "version": "0.1.0",
   "publisher": "rbolsius",
+  "repository": "https://github.com/rbolsius/vscode-theme-nightshade.git",
   "engines": {
     "vscode": "*"
   },
@@ -16,11 +17,6 @@
         "label": "Nightshade",
         "uiTheme": "vs-dark",
         "path": "./themes/nightshade.json"
-      },
-      {
-        "label": "Daylight",
-        "uiTheme": "vs-light",
-        "path": "./themes/daylight.json"
       }
     ]
   }
