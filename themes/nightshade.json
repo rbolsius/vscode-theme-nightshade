@@ -227,6 +227,15 @@
       }
     },
     {
+      "scope": [
+        "meta.preprocessor.macro",
+        "entity.name.function.preprocessor"
+      ],
+      "settings": {
+        "foreground": "#dfaf8f"
+      }
+    },
+    {
       "scope": "meta.preprocessor.string",
       "settings": {
         "foreground": "#cc9393"
