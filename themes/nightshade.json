@@ -6,37 +6,25 @@
         "foreground": "#dcdcd0",
         "background": "#222222",
         "lineHighlight": "#2f2f2f",
-        "selection": "#3c3c3c",
+        "selection": "#56565680",
         "activeLinkForeground": "#8FBCBB",
-        "ansiBlack": "#222222",
-        "ansiBrightBlack": "#6f6f6b",
-        "ansiRed": "#9c574f",
-        "ansiBrightRed": "#dc7363",
-        "ansiGreen": "#368f57",
-        "ansiBrightGreen": "#a7eb5f",
-        "ansiYellow": "#e7ad58",
-        "ansiBrightYellow": "#e0d35f",
-        "ansiBlue": "#327cb5",
-        "ansiBrightBlue": "#5fa7ef",
-        "ansiMagenta": "#8f5f8f",
-        "ansiBrightMagenta": "#bc7cac",
-        "ansiCyan": "#4faba3",
-        "ansiBrightCyan": "#6cd0d3",
-        "ansiWhite": "#babab0",
-        "ansiBrightWhite": "#dcdcd0",
-        "currentFindMatchHighlight": "#5fa7ef66",
-        "findMatchHighlight": "#402933",
-        "findRangeHighlight": "#402933",
+        // "currentFindMatchHighlight": "#ffbb004d",
+        // "currentFindMatchHighlight": "#003a6e60",
+        // "currentFindMatchHighlight": "#752a4b80",
+        "currentFindMatchHighlight": "#3160a680",
+        "findMatchHighlight": "#5e314480",
+        "findRangeHighlight": "#5e314480",
         "guide": "#494949",
-        "greensquiggly": "#e0d35f",
-        "redsquiggly": "#dc7363"
-        // "hoverHighlight": "#494949",
-        // "inactiveSelection": "#3c3c3c",
-        // "rangeHighlight": "#3c3c3ccc",
-        // "referenceHighlight": "#f0dfaf66",
-        // "selectionHighlight": "#434C5ecc",
-        // "wordHighlight": "#f0dfaf4d",
-        // "wordHighlightStrong": "#f0dfaf33"
+        "greensquiggly": "#e7ad58",
+        "redsquiggly": "#dc7363",
+        "hoverHighlight": "#1c8dff50",
+        "inactiveSelection": "#56565680",
+        "rangeHighlight": "#3c3c3c80",
+        "referenceHighlight": "#3160a680",
+        // "selectionHighlight": "#3160a680",
+        "wordHighlight": "#5fa7ef33",
+        // "wordHighlightStrong": "#1c8dff50"
+        "wordHighlightStrong": "#5fa7ef33"
       }
     },
     {
@@ -548,5 +536,22 @@
         "foreground": "#878780"
       }
     }
-  ]
+  ],
+  "colors": {
+    "terminalAnsiBlack": "#222222",
+    "terminalAnsiBrightBlack": "#6f6f6b",
+    "terminalAnsiRed": "#9c574f",
+    "terminalAnsiBrightRed": "#dc7363",
+    "terminalAnsiGreen": "#368f57",
+    "terminalAnsiBrightGreen": "#a7eb5f",
+    "terminalAnsiYellow": "#e7ad58",
+    "terminalAnsiBrightYellow": "#e0d35f",
+    "terminalAnsiBlue": "#327cb5",
+    "terminalAnsiBrightBlue": "#5fa7ef",
+    "terminalAnsiMagenta": "#8f5f8f",
+    "terminalAnsiBrightMagenta": "#bc7cac",
+    "terminalAnsiCyan": "#4faba3",
+    "terminalAnsiBrightCyan": "#6cd0d3",
+    "terminalAnsiWhite": "#babab0",
+    "terminalAnsiBrightWhite": "#dcdcd0"
 }
