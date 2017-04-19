@@ -1,23 +1,23 @@
 {
-    "name": "theme-nightshade",
-    "displayName": "Nightshade Theme",
-    "description": "A dark theme with medium contrast and color intensity",
-    "categories": [
-        "Themes"
-    ],
-    "version": "0.6.1",
-    "publisher": "rbolsius",
-    "repository": "https://github.com/rbolsius/vscode-theme-nightshade.git",
-    "engines": {
-        "vscode": "*"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Nightshade",
-                "uiTheme": "vs-dark",
-                "path": "./themes/nightshade.json"
-            }
-        ]
-    }
+  "name": "theme-nightshade",
+  "displayName": "Nightshade Theme",
+  "description": "A dark theme with medium contrast and color intensity",
+  "categories": [
+    "Themes"
+  ],
+  "version": "0.6.3",
+  "publisher": "rbolsius",
+  "repository": "https://github.com/rbolsius/vscode-theme-nightshade.git",
+  "engines": {
+    "vscode": "*"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nightshade",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nightshade.json"
+      }
+    ]
+  }
 }
