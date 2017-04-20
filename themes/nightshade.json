@@ -88,6 +88,32 @@
       }
     },
     {
+      "scope": [
+        "entity.other.attribute-name.parent-selector.css",
+        "entity.other.attribute-name.pseudo-class.css",
+        "entity.other.attribute-name.pseudo-element.css"
+      ],
+      "settings": {
+        "foreground": "#cc9393"
+      }
+    },
+    {
+      "scope": [
+        "keyword.other.unit"
+      ],
+      "settings": {
+        "foreground": "#8cd0d3"
+      }
+    },
+    {
+      "scope": [
+        "keyword.other.important"
+      ],
+      "settings": {
+        "foreground": "#bf86a5"
+      }
+    },
+    {
       "scope": "invalid",
       "settings": {
         "foreground": "#af7171",
@@ -422,7 +448,7 @@
         "support.constant.color"
       ],
       "settings": {
-        "foreground": "#cc9393"
+        "foreground": "#dfaf8f"
       }
     },
     {
