@@ -1,6 +1,6 @@
 {
   "name": "Nightshade",
-  "settings": [
+  "tokenColors": [
     {
       "settings": {
         "foreground": "#dcdcd0",
@@ -65,22 +65,19 @@
       }
     },
     {
-      "scope": "entity.other.attribute-name",
+      "scope": [
+        "entity.other.attribute-name"
+      ],
       "settings": {
         "foreground": "#f0dfaf"
       }
     },
     {
       "scope": [
-        "entity.other.attribute-name.class.css",
-        "entity.other.attribute-name.class.mixin.css",
-        "entity.other.attribute-name.id.css",
-        "entity.other.attribute-name.parent-selector.css",
-        "entity.other.attribute-name.pseudo-class.css",
-        "entity.other.attribute-name.pseudo-element.css",
-        "source.css.less entity.other.attribute-name.id",
-        "entity.other.attribute-name.attribute.scss",
-        "entity.other.attribute-name.scss",
+        "entity.other.attribute-name.id",
+        "entity.other.attribute-name.class",
+        "entity.other.attribute-name.class.mixin",
+        "entity.other.attribute-name.attribute",
         "meta.property-name.css"
       ],
       "settings": {
@@ -102,7 +99,7 @@
         "keyword.other.unit"
       ],
       "settings": {
-        "foreground": "#8cd0d3"
+        "foreground": "#bf86a5"
       }
     },
     {
@@ -497,21 +494,21 @@
     }
   ],
   "colors": {
-    "terminalAnsiBlack": "#222222",
-    "terminalAnsiBrightBlack": "#6f6f6b",
-    "terminalAnsiRed": "#9c574f",
-    "terminalAnsiBrightRed": "#dc7363",
-    "terminalAnsiGreen": "#368f57",
-    "terminalAnsiBrightGreen": "#a7eb5f",
-    "terminalAnsiYellow": "#e7ad58",
-    "terminalAnsiBrightYellow": "#e0d35f",
-    "terminalAnsiBlue": "#327cb5",
-    "terminalAnsiBrightBlue": "#5fa7ef",
-    "terminalAnsiMagenta": "#8f5f8f",
-    "terminalAnsiBrightMagenta": "#bc7cac",
-    "terminalAnsiCyan": "#4faba3",
-    "terminalAnsiBrightCyan": "#6cd0d3",
-    "terminalAnsiWhite": "#babab0",
-    "terminalAnsiBrightWhite": "#dcdcd0"
+    "terminal.ansiBlack": "#222222",
+    "terminal.ansiBrightBlack": "#6f6f6b",
+    "terminal.ansiRed": "#9c574f",
+    "terminal.ansiBrightRed": "#dc7363",
+    "terminal.ansiGreen": "#368f57",
+    "terminal.ansiBrightGreen": "#a7eb5f",
+    "terminal.ansiYellow": "#e7ad58",
+    "terminal.ansiBrightYellow": "#e0d35f",
+    "terminal.ansiBlue": "#327cb5",
+    "terminal.ansiBrightBlue": "#5fa7ef",
+    "terminal.ansiMagenta": "#8f5f8f",
+    "terminal.ansiBrightMagenta": "#bc7cac",
+    "terminal.ansiCyan": "#4faba3",
+    "terminal.ansiBrightCyan": "#6cd0d3",
+    "terminal.ansiWhite": "#babab0",
+    "terminal.ansiBrightWhite": "#dcdcd0"
   }
 }
