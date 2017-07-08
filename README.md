@@ -8,31 +8,31 @@ A dark theme with medium contrast and color intensity.
 
 ### HTML
 
-![](html.png)
+![](https://raw.githubusercontent.com/rbolsius/vscode-theme-nightshade/master/screenshots/html.png)
 
 ### CSS
 
-![](css.png)
+![](https://raw.githubusercontent.com/rbolsius/vscode-theme-nightshade/master/screenshots/css.png)
 
 ### Javascript
 
-![](javascript.png)
+![](https://raw.githubusercontent.com/rbolsius/vscode-theme-nightshade/master/screenshots/javascript.png)
 
 ### C++
 
-![](cpp.png)
+![](https://raw.githubusercontent.com/rbolsius/vscode-theme-nightshade/master/screenshots/cpp.png)
 
 ### Markdown
 
-![](markdown.png)
+![](https://raw.githubusercontent.com/rbolsius/vscode-theme-nightshade/master/screenshots/markdown.png)
 
 ### Shell Script
 
-![](shell.png)
+![](https://raw.githubusercontent.com/rbolsius/vscode-theme-nightshade/master/screenshots/shell.png)
 
 ### Python
 
-![](python.png)
+![](https://raw.githubusercontent.com/rbolsius/vscode-theme-nightshade/master/screenshots/python.png)
 
 ## Repository
 
