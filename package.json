@@ -5,12 +5,17 @@
   "categories": [
     "Themes"
   ],
-  "version": "0.7.1",
+  "version": "0.7.2",
   "publisher": "rbolsius",
-  "repository": "https://github.com/rbolsius/vscode-theme-nightshade.git",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rbolsius/vscode-theme-nightshade.git"
+  },
   "engines": {
     "vscode": "*"
   },
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
