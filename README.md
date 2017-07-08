@@ -14,7 +14,7 @@ A dark theme with medium contrast and color intensity.
 
 ![](https://raw.githubusercontent.com/rbolsius/vscode-theme-nightshade/master/screenshots/css.png)
 
-### Javascript
+### JavaScript
 
 ![](https://raw.githubusercontent.com/rbolsius/vscode-theme-nightshade/master/screenshots/javascript.png)
 
