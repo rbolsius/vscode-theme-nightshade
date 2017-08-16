@@ -2,7 +2,8 @@
 
 ## Nightshade Theme
 
-A dark theme with medium contrast and color intensity.
+A dark theme with medium contrast and color intensity and a companion
+Daylight theme for use in bright environments.
 
 ## Examples
 

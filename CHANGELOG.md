@@ -4,6 +4,10 @@ All notable changes to the "theme-nightshade" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.8
+
+  - Add companion Daylight theme for use in bright environments
+
 ## 0.7
 
   - Add ANSI terminal colors (requires VS Code 1.12+)

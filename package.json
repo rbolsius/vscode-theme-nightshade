@@ -5,7 +5,7 @@
   "categories": [
     "Themes"
   ],
-  "version": "0.7.3",
+  "version": "0.8.0",
   "publisher": "rbolsius",
   "license": "MIT",
   "repository": {
@@ -22,6 +22,11 @@
         "label": "Nightshade",
         "uiTheme": "vs-dark",
         "path": "./themes/nightshade.json"
+      },
+      {
+        "label": "Daylight",
+        "uiTheme": "vs",
+        "path": "./themes/daylight.json"
       }
     ]
   }
