@@ -1,22 +1,98 @@
 #!/bin/bash
 
-sed -e 's/#bf86a5/#6c083c/' \
+sed -e 's/#000000/#{black}/' \
+    -e 's/#ffffff/#000000/' \
+    -e 's/#dcdcd0/#000000/' \
+    -e 's/#babab0/#333333/' \
+    -e 's/#878780/#555555/' \
+    -e 's/#6f6f6b/#777777/' \
+    -e 's/#585858/#999999/' \
+    -e 's/#494949/#b7b7b7/' \
+    -e 's/#3c3c3c/#cccccc/' \
+    -e 's/#2f2f2f/#e7e7e7/' \
+    -e 's/#222222/#ffffff/' \
+    -e 's/#1b1b1b/#eeeeee/' \
+    -e 's/#171717/#dddddd/' \
+    -e 's/#0f0f0f/#cccccc/' \
+    -e 's/#{black}/#ffffff/' \
+    -e 's/#dca3a3/#900000/' \
     -e 's/#cc9393/#8b0000/' \
-    -e 's/#dfaf8f/#a05500/' \
-    -e 's/#f0dfaf/#a97a00/' \
-    -e 's/#c5d47f/#708600/' \
-    -e 's/#7f9f7f/#0d830d/' \
-    -e 's/#8cd0d3/#006f76/' \
     -e 's/#af7171/#cd2424/' \
+    -e 's/#8c5353/#ff3434/' \
+    -e 's/#653b3b/#ffa8a8/' \
+    -e 's/#492929/#ffcccc/' \
+    -e 's/#dfaf8f/#a05500/' \
+    -e 's/#b88a6a/#de7d08/' \
+    -e 's/#91674a/#ff9f2c/' \
+    -e 's/#6a4b35/#ffc17c/' \
+    -e 's/#4e3624/#ffd2a0/' \
+    -e 's/#f0dfaf/#a97a00/' \
+    -e 's/#d0bc84/#d3af08/' \
+    -e 's/#9c895a/#eac523/' \
+    -e 's/#685b3c/#ffeb77/' \
+    -e 's/#433926/#ffef9b/' \
+    -e 's/#c5d47f/#708600/' \
+    -e 's/#a1ad67/#91aa10/' \
+    -e 's/#899357/#afce13/' \
+    -e 's/#595f37/#e6ff77/' \
+    -e 's/#404324/#ecff9b/' \
+    -e 's/#bfebbf/#005700/' \
     -e 's/#afd8af/#005e00/' \
-    -e 's/#5fa7ef/#1685ff/' \
+    -e 's/#9fc59f/#006400/' \
+    -e 's/#8fb28f/#0b740b/' \
+    -e 's/#7f9f7f/#0d830d/' \
+    -e 's/#5f7f5f/#59b759/' \
+    -e 's/#4b654b/#6ee56e/' \
+    -e 's/#404f40/#a9ffa9/' \
+    -e 's/#334033/#cdffcd/' \
+    -e 's/#9ce0e3/#00656c/' \
+    -e 's/#8cd0d3/#006f76/' \
+    -e 's/#6ca0a3/#29a2a7/' \
+    -e 's/#537b7e/#65d9e1/' \
+    -e 's/#325353/#b6faff/' \
+    -e 's/#203737/#dafcff/' \
+    -e 's/#96c0de/#00295e/' \
+    -e 's/#84b3f3/#00306b/' \
+    -e 's/#6f95cc/#1155a7/' \
+    -e 's/#4a6898/#2d8aff/' \
+    -e 's/#374b71/#b4d5ff/' \
+    -e 's/#212e48/#d8eaff/' \
+    -e 's/#9c8ccf/#460071/' \
+    -e 's/#7768a8/#5e0095/' \
+    -e 's/#5b5081/#a84dff/' \
+    -e 's/#484067/#d8acff/' \
+    -e 's/#342e4b/#e9d0ff/' \
+    -e 's/#bf86a5/#6c083c/' \
+    -e 's/#8f5c77/#a5306d/' \
+    -e 's/#6f4757/#fa88b6/' \
+    -e 's/#4f3440/#ffc3db/' \
+    -e 's/#402933/#ffe7f0/' \
     -e 's/#dc7363/#d7372d/' \
     -e 's/#e7ad58/#e2951d/' \
-    -e 's/#222222/#ffffff/' \
-    -e 's/#3c3c3c/#cccccc/' \
-    -e 's/#585858/#999999/' \
-    -e 's/#878780/#555555/' \
-    -e 's/#dcdcd0/#000000/' \
+    -e 's/#e0c75f/#d9b400/' \
+    -e 's/#9feb5f/#7fbd00/' \
+    -e 's/#7fdf7f/#2fbc2f/' \
+    -e 's/#7bdcd3/#37bfc2/' \
+    -e 's/#5fa7ef/#1685ff/' \
+    -e 's/#ac7cef/#7017e3/' \
+    -e 's/#bc7cac/#bf56a6/' \
+    -e 's/#b9564b/#9b2f23/' \
+    -e 's/#aa8041/#b26900/' \
+    -e 's/#a79944/#a08f00/' \
+    -e 's/#7cb143/#5ca014/' \
+    -e 's/#368f57/#208020/' \
+    -e 's/#4faba3/#2c9093/' \
+    -e 's/#327cb5/#0f57a0/' \
+    -e 's/#8158bb/#5212a7/' \
+    -e 's/#9f619f/#833b70/' \
     -e 's/#3160a6/#86baff/' \
     -e 's/#5e3144/#fccbdf/' \
-    -e 's/#1c8dff/#24a0ff/' "$@"
+    -e 's/#1c8dff/#24a0ff/' \
+    -e 's/#383b3d/#cccccc/' \
+    -e 's/\( *"editor\..*HighlightBackground"\): "#cccccc80"/\1: "#cccccc40"/' \
+    -e 's/\( *"terminal\.ansiYellow"\): ".*"/\1: "#b26900"/' \
+    -e 's/\( *"terminal\.ansiBlack"\): ".*"/\1: "#000000"/' \
+    -e 's/\( *"terminal\.ansiBrightBlack"\): ".*"/\1: "#555555"/' \
+    -e 's/\( *"terminal\.ansiWhite"\): ".*"/\1: "#777777"/' \
+    -e 's/\( *"terminal\.ansiBrightWhite"\): .*0"/\1: "#ffffff"/' \
+    "$@"
