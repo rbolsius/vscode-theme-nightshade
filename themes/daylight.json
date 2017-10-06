@@ -475,6 +475,8 @@
   "colors": {
     "background": "#ffffff",
     "foreground": "#000000",
+    "activityBar.background": "#e7e7e7",
+    "activityBar.foreground": "#999999",
     "editor.background": "#ffffff",
     "editor.foreground": "#000000",
     "editorLineNumber.foreground": "#999999",

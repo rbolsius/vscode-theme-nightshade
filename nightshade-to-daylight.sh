@@ -69,7 +69,7 @@ sed -e 's/#000000/#{black}/' \
     -e 's/#402933/#ffe7f0/' \
     -e 's/#dc7363/#d7372d/' \
     -e 's/#e7ad58/#e2951d/' \
-    -e 's/#e0c75f/#d9b400/' \
+    -e 's/#faca6a/#d9b400/' \
     -e 's/#9feb5f/#7fbd00/' \
     -e 's/#7fdf7f/#2fbc2f/' \
     -e 's/#7bdcd3/#37bfc2/' \
