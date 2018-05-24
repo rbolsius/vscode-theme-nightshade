@@ -7,6 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.8
 
   - Add companion Daylight theme for use in bright environments
+  - Replace garish terminal colors with Nightshade palette
 
 ## 0.7
 
