@@ -70,7 +70,7 @@
         "entity.other.attribute-name.pseudo-element.css"
       ],
       "settings": {
-        "foreground": "#cc8383"
+        "foreground": "#cc8a8a"
       }
     },
     {
@@ -192,7 +192,7 @@
         "markup.underline.link.image.markdown"
       ],
       "settings": {
-        "foreground": "#cc8383",
+        "foreground": "#cc8a8a",
         "fontStyle": "normal"
       }
     },
@@ -233,7 +233,7 @@
     {
       "scope": "meta.preprocessor.string",
       "settings": {
-        "foreground": "#cc8383"
+        "foreground": "#cc8a8a"
       }
     },
     {
@@ -269,7 +269,7 @@
     {
       "scope": "string",
       "settings": {
-        "foreground": "#cc8383"
+        "foreground": "#cc8a8a"
       }
     },
     {
@@ -497,7 +497,7 @@
     "terminal.ansiBlack": "#222222",
     "terminal.ansiBrightBlack": "#878780",
     "terminal.ansiRed": "#b76f6a",
-    "terminal.ansiBrightRed": "#cc8383",
+    "terminal.ansiBrightRed": "#cc8a8a",
     "terminal.ansiGreen": "#7f9f7f",
     "terminal.ansiBrightGreen": "#c5d47f",
     "terminal.ansiYellow": "#dfaf8f",
