@@ -16,13 +16,13 @@
     {
       "scope": "header",
       "settings": {
-        "foreground": "#019ba5"
+        "foreground": "#2c9093"
       }
     },
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#099009"
+        "foreground": "#208020"
       }
     },
     {
@@ -34,13 +34,13 @@
     {
       "scope": "meta.tag.sgml.doctype.html",
       "settings": {
-        "foreground": "#9f0153"
+        "foreground": "#952577"
       }
     },
     {
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#019ba5"
+        "foreground": "#2c9093"
       }
     },
     {
@@ -60,7 +60,7 @@
         "meta.property-name.css"
       ],
       "settings": {
-        "foreground": "#c36801"
+        "foreground": "#bf6c00"
       }
     },
     {
@@ -70,7 +70,7 @@
         "entity.other.attribute-name.pseudo-element.css"
       ],
       "settings": {
-        "foreground": "#bb0000"
+        "foreground": "#a91100"
       }
     },
     {
@@ -78,7 +78,7 @@
         "keyword.other.unit"
       ],
       "settings": {
-        "foreground": "#9f0153"
+        "foreground": "#952577"
       }
     },
     {
@@ -86,7 +86,7 @@
         "keyword.other.important"
       ],
       "settings": {
-        "foreground": "#9f0153"
+        "foreground": "#952577"
       }
     },
     {
@@ -106,21 +106,21 @@
       "scope": "markup.bold",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#c36801"
+        "foreground": "#bf6c00"
       }
     },
     {
       "scope": "markup.heading",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#019ba5"
+        "foreground": "#2c9093"
       }
     },
     {
       "scope": "markup.italic",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#c36801"
+        "foreground": "#bf6c00"
       }
     },
     {
@@ -166,7 +166,7 @@
         "markup.raw.block.markdown"
       ],
       "settings": {
-        "foreground": "#099009"
+        "foreground": "#208020"
       }
     },
     {
@@ -183,7 +183,7 @@
         "constant.other.reference.link.markdown"
       ],
       "settings": {
-        "foreground": "#019ba5"
+        "foreground": "#2c9093"
       }
     },
     {
@@ -192,7 +192,7 @@
         "markup.underline.link.image.markdown"
       ],
       "settings": {
-        "foreground": "#bb0000",
+        "foreground": "#a91100",
         "fontStyle": "normal"
       }
     },
@@ -227,13 +227,13 @@
         "entity.name.function.preprocessor"
       ],
       "settings": {
-        "foreground": "#c36801"
+        "foreground": "#bf6c00"
       }
     },
     {
       "scope": "meta.preprocessor.string",
       "settings": {
-        "foreground": "#bb0000"
+        "foreground": "#a91100"
       }
     },
     {
@@ -245,7 +245,7 @@
     {
       "scope": "meta.structure.dictionary.key.python",
       "settings": {
-        "foreground": "#019ba5"
+        "foreground": "#2c9093"
       }
     },
     {
@@ -263,13 +263,13 @@
     {
       "scope": "storage.type",
       "settings": {
-        "foreground": "#019ba5"
+        "foreground": "#2c9093"
       }
     },
     {
       "scope": "string",
       "settings": {
-        "foreground": "#bb0000"
+        "foreground": "#a91100"
       }
     },
     {
@@ -279,7 +279,7 @@
         "punctuation.definition.template-expression.end.ts"
       ],
       "settings": {
-        "foreground": "#019ba5"
+        "foreground": "#2c9093"
       }
     },
     {
@@ -306,7 +306,7 @@
         "punctuation.section.embedded.end.metatag.php"
       ],
       "settings": {
-        "foreground": "#019ba5"
+        "foreground": "#2c9093"
       }
     },
     {
@@ -316,7 +316,7 @@
         "storage.modifier.package.java"
       ],
       "settings": {
-        "foreground": "#9f0153"
+        "foreground": "#952577"
       }
     },
     {
@@ -335,7 +335,7 @@
         "meta.function-call.generic"
       ],
       "settings": {
-        "foreground": "#019ba5"
+        "foreground": "#2c9093"
       }
     },
     {
@@ -366,7 +366,7 @@
         "storage.type.primitive.groovy"
       ],
       "settings": {
-        "foreground": "#019ba5"
+        "foreground": "#2c9093"
       }
     },
     {
@@ -381,7 +381,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#019ba5"
+        "foreground": "#2c9093"
       }
     },
     {
@@ -399,7 +399,7 @@
         "support.variable"
       ],
       "settings": {
-        "foreground": "#c36801"
+        "foreground": "#bf6c00"
       }
     },
     {
@@ -409,7 +409,7 @@
         "meta.object-literal.key entity.name.function"
       ],
       "settings": {
-        "foreground": "#c36801"
+        "foreground": "#bf6c00"
       }
     },
     {
@@ -424,13 +424,13 @@
         "support.constant.color"
       ],
       "settings": {
-        "foreground": "#c36801"
+        "foreground": "#bf6c00"
       }
     },
     {
       "scope": "punctuation.definition.comment.line.shebang.shell",
       "settings": {
-        "foreground": "#099009"
+        "foreground": "#208020"
       }
     },
     {
@@ -445,7 +445,7 @@
     {
       "scope": "support.function.builtin.shell",
       "settings": {
-        "foreground": "#9f0153"
+        "foreground": "#952577"
       }
     },
     {
@@ -498,15 +498,15 @@
     "list.dropBackground": "#cccccc",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBrightBlack": "#555555",
-    "terminal.ansiRed": "#9b2f23",
+    "terminal.ansiRed": "#a91100",
     "terminal.ansiBrightRed": "#d7372d",
     "terminal.ansiGreen": "#208020",
-    "terminal.ansiBrightGreen": "#7fbd00",
-    "terminal.ansiYellow": "#b26900",
-    "terminal.ansiBrightYellow": "#caa700",
+    "terminal.ansiBrightGreen": "#86a000",
+    "terminal.ansiYellow": "#bf6c00",
+    "terminal.ansiBrightYellow": "#d49900",
     "terminal.ansiBlue": "#0f57a0",
     "terminal.ansiBrightBlue": "#1685ff",
-    "terminal.ansiMagenta": "#833b70",
+    "terminal.ansiMagenta": "#952577",
     "terminal.ansiBrightMagenta": "#bf56a6",
     "terminal.ansiCyan": "#2c9093",
     "terminal.ansiBrightCyan": "#37bfc2",
