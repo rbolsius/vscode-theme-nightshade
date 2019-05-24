@@ -32,6 +32,12 @@
       }
     },
     {
+      "scope": "constant.character.escape.line-continuation",
+      "settings": {
+        "foreground": "#878780"
+      }
+    },
+    {
       "scope": "meta.tag.sgml.doctype.html",
       "settings": {
         "foreground": "#bf86a5"
@@ -79,6 +85,14 @@
       ],
       "settings": {
         "foreground": "#bf86a5"
+      }
+    },
+    {
+      "scope": [
+        "keyword.other.unit.hexadecimal"
+      ],
+      "settings": {
+        "foreground": "#c5d47f"
       }
     },
     {

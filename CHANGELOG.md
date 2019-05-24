@@ -4,6 +4,12 @@ All notable changes to the "theme-nightshade" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.9
+
+  - Make editor hints more visible
+  - Make the color of hexadecimal literals uniform
+  - Make line continuation escape characters more subdued
+
 ## 0.8
 
   - Add companion Daylight theme for use in bright environments
