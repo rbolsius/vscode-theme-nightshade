@@ -106,7 +106,7 @@
     {
       "scope": "invalid",
       "settings": {
-        "foreground": "#B76F6A",
+        "foreground": "#b76f6a",
         "fontStyle": "bold"
       }
     },

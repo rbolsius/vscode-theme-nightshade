@@ -9,6 +9,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
   - Make editor hints more visible
   - Make the color of hexadecimal literals uniform
   - Make line continuation escape characters more subdued
+  - Improve contrast of light colors in Daylight theme
 
 ## 0.8
 

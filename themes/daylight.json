@@ -28,7 +28,7 @@
     {
       "scope": "constant",
       "settings": {
-        "foreground": "#86a000"
+        "foreground": "#758c00"
       }
     },
     {
@@ -54,7 +54,7 @@
         "entity.other.attribute-name"
       ],
       "settings": {
-        "foreground": "#d49900"
+        "foreground": "#996e00"
       }
     },
     {
@@ -66,7 +66,7 @@
         "meta.property-name.css"
       ],
       "settings": {
-        "foreground": "#bf6c00"
+        "foreground": "#995700"
       }
     },
     {
@@ -120,7 +120,7 @@
       "scope": "markup.bold",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#bf6c00"
+        "foreground": "#995700"
       }
     },
     {
@@ -134,7 +134,7 @@
       "scope": "markup.italic",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#bf6c00"
+        "foreground": "#995700"
       }
     },
     {
@@ -189,7 +189,7 @@
         "string.other.link.description.markdown"
       ],
       "settings": {
-        "foreground": "#d49900"
+        "foreground": "#996e00"
       }
     },
     {
@@ -213,13 +213,13 @@
     {
       "scope": "markup.inline.raw",
       "settings": {
-        "foreground": "#86a000"
+        "foreground": "#758c00"
       }
     },
     {
       "scope": "meta.selector",
       "settings": {
-        "foreground": "#d49900"
+        "foreground": "#996e00"
       }
     },
     {
@@ -232,7 +232,7 @@
     {
       "scope": "meta.preprocessor",
       "settings": {
-        "foreground": "#d49900"
+        "foreground": "#996e00"
       }
     },
     {
@@ -241,7 +241,7 @@
         "entity.name.function.preprocessor"
       ],
       "settings": {
-        "foreground": "#bf6c00"
+        "foreground": "#995700"
       }
     },
     {
@@ -253,7 +253,7 @@
     {
       "scope": "meta.preprocessor.numeric",
       "settings": {
-        "foreground": "#86a000"
+        "foreground": "#758c00"
       }
     },
     {
@@ -271,7 +271,7 @@
     {
       "scope": "storage",
       "settings": {
-        "foreground": "#d49900"
+        "foreground": "#996e00"
       }
     },
     {
@@ -305,13 +305,13 @@
         "variable.other.less"
       ],
       "settings": {
-        "foreground": "#d49900"
+        "foreground": "#996e00"
       }
     },
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#d49900"
+        "foreground": "#996e00"
       }
     },
     {
@@ -337,7 +337,7 @@
       "name": "this.self",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#d49900"
+        "foreground": "#996e00"
       }
     },
     {
@@ -402,7 +402,7 @@
       "name": "Control flow keywords",
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#d49900"
+        "foreground": "#996e00"
       }
     },
     {
@@ -413,7 +413,7 @@
         "support.variable"
       ],
       "settings": {
-        "foreground": "#bf6c00"
+        "foreground": "#995700"
       }
     },
     {
@@ -423,7 +423,7 @@
         "meta.object-literal.key entity.name.function"
       ],
       "settings": {
-        "foreground": "#bf6c00"
+        "foreground": "#995700"
       }
     },
     {
@@ -438,7 +438,7 @@
         "support.constant.color"
       ],
       "settings": {
-        "foreground": "#bf6c00"
+        "foreground": "#995700"
       }
     },
     {
@@ -453,7 +453,7 @@
         "comment.line.shebang.shell"
       ],
       "settings": {
-        "foreground": "#86a000"
+        "foreground": "#758c00"
       }
     },
     {
@@ -465,7 +465,7 @@
     {
       "scope": "punctuation.definition.variable.shell",
       "settings": {
-        "foreground": "#d49900"
+        "foreground": "#996e00"
       }
     },
     {
@@ -482,7 +482,7 @@
         "variable.other.jsdoc"
       ],
       "settings": {
-        "foreground": "#86a000"
+        "foreground": "#758c00"
       }
     }
   ],
@@ -521,9 +521,9 @@
     "terminal.ansiRed": "#a91100",
     "terminal.ansiBrightRed": "#d7372d",
     "terminal.ansiGreen": "#208020",
-    "terminal.ansiBrightGreen": "#86a000",
-    "terminal.ansiYellow": "#bf6c00",
-    "terminal.ansiBrightYellow": "#d49900",
+    "terminal.ansiBrightGreen": "#758c00",
+    "terminal.ansiYellow": "#995700",
+    "terminal.ansiBrightYellow": "#996e00",
     "terminal.ansiBlue": "#0f57a0",
     "terminal.ansiBrightBlue": "#1685ff",
     "terminal.ansiMagenta": "#952577",
