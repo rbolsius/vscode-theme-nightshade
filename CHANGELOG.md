@@ -10,6 +10,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
   - Make the color of hexadecimal literals uniform
   - Make line continuation escape characters more subdued
   - Improve contrast of light colors in Daylight theme
+  - Customize bracket pair colors
 
 ## 0.8
 
