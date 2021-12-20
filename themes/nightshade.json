@@ -510,6 +510,7 @@
     "editorBracketHighlight.foreground4": "#cc9393",
     "editorBracketHighlight.foreground5": "#8cd0d3",
     "editorBracketHighlight.foreground6": "#f0dfaf",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#dc7363",
     "editorHint.foreground": "#00000000",
     "editorHint.border": "#dc7363",
     "editor.wordHighlightBackground": "#58585880",
