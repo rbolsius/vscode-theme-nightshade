@@ -14,7 +14,7 @@
     },
     {
       "label": "deploy",
-      "command": "bash -c 'cp -rpv * $HOME/.vscode/extensions/rbolsius.theme-nightshade-*'",
+      "command": "bash -c 'cp -rpv * $HOME/.config/Code/extensions/rbolsius.theme-nightshade-*'",
       "group":"build",
       "type": "shell"
     }
