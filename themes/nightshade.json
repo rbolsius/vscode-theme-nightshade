@@ -157,18 +157,20 @@
     },
     {
       "scope": [
-        "beginning.punctuation.definition.quote.markdown",
         "beginning.punctuation.definition.list.markdown",
+        "beginning.punctuation.definition.quote.markdown",
+        "meta.link.reference.markdown",
         "punctuation.definition.bold.markdown",
         "punctuation.definition.constant.markdown",
         "punctuation.definition.heading.markdown",
         "punctuation.definition.italic.markdown",
         "punctuation.definition.link.markdown",
+        "punctuation.definition.link.title.begin.markdown",
+        "punctuation.definition.link.title.end.markdown",
         "punctuation.definition.metadata.markdown",
         "punctuation.definition.string.begin.markdown",
         "punctuation.definition.string.end.markdown",
-        "punctuation.separator.key-value.markdown",
-        "meta.link.reference.markdown"
+        "punctuation.separator.key-value.markdown"
       ],
       "settings": {
         "foreground": "#878780"

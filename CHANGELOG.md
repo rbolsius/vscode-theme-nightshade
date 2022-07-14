@@ -11,6 +11,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
   - Make line continuation escape characters more subdued
   - Improve contrast of light colors in Daylight theme
   - Customize bracket pair colors
+  - Fix formatting of punctuation in Markdown links
 
 ## 0.8
 
