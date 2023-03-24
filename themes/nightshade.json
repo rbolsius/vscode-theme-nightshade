@@ -159,6 +159,7 @@
       "scope": [
         "beginning.punctuation.definition.list.markdown",
         "beginning.punctuation.definition.quote.markdown",
+        "fenced_code.block.language.markdown",
         "meta.link.reference.markdown",
         "punctuation.definition.markdown",
         "punctuation.definition.bold.markdown",
