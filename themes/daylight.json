@@ -160,6 +160,7 @@
         "beginning.punctuation.definition.list.markdown",
         "beginning.punctuation.definition.quote.markdown",
         "meta.link.reference.markdown",
+        "punctuation.definition.markdown",
         "punctuation.definition.bold.markdown",
         "punctuation.definition.constant.markdown",
         "punctuation.definition.heading.markdown",
@@ -178,8 +179,15 @@
     },
     {
       "scope": [
-        "markup.quote.markdown",
         "markup.raw.block.markdown"
+      ],
+      "settings": {
+        "foreground": "#555555"
+      }
+    },
+    {
+      "scope": [
+        "markup.quote.markdown"
       ],
       "settings": {
         "foreground": "#099009"

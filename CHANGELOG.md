@@ -4,6 +4,10 @@ All notable changes to the "theme-nightshade" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 1.0
+
+  - Change color of raw code blocks in Markdown to distinguish from block quotes
+
 ## 0.9
 
   - Make editor hints more visible
